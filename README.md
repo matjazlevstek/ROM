@@ -3,7 +3,7 @@ Vaje, Računalniška orodja v matematiki
 
 Popravil sem!
 d
-d
+c
 Baje sem popravil še na GitHubu!?
  
  
