@@ -3,8 +3,8 @@ Vaje, Računalniška orodja v matematiki
 
 Popravil sem!
 d
-d
-Baje sem popravil še na GitHubu!?
+a
+Baje sem prej že popravil še na GitHubu!?
  
  
 ?
