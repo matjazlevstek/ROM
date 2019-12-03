@@ -1,9 +1,3 @@
 # ROM
-Vaje, Računalniška orodja v matematiki
-
-Popravil sem!
-
-
-Baje sem popravil še na GitHubu!?
- 
-A zdej pa še v Visual Code??
+Projektna naloga:
+Predstavil bom linearno funkcijo, kako jo definiramo, kaj je funkcija koeficienta, začetne vrednosti. Kaj je linearna funkcija grafično..
